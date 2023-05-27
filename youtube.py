@@ -13,7 +13,7 @@ import numpy as np
 import streamlit as st
 
 
-GUI
+#GUI
 #  Streamlit GUI
 # Change background color
 
